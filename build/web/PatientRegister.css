@@ -1,0 +1,80 @@
+body{
+font-family:sans-serif;
+background:url(BottomBg.jpg) no-repeat;
+background-size:cover
+}
+.dtf{
+  float: left;
+}
+
+.btn {
+right:95%;
+  width: 30%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 40px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.btn-cta{
+background:#4caf50;  
+}
+
+.btn-cta:hover{  
+box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
+}
+
+.h1{
+float:left;
+font-size:40px;
+border-bottom:6px solid #4caf50;
+margin-bottom:50px;
+padding:13px 0;
+}
+.dte{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  opacity: 0.8;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.div {
+	margin: 20px 20px;
+	overflow: hidden;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  opacity: 0.8;
+ }
+ 
+.btn1 {
+  float:right;
+  width: 10%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 15px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn1:hover {
+  background-color: #45a049;
+}
+
+h2{
+	color: black;
+	float: left;
+	text-align: center;
+margin: 20px 20px;
+}

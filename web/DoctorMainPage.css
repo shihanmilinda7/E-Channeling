@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:url(BottomBg.jpg) no-repeat;
+background-size:cover
+}
+
+.topnav {
+	margin: 12px 20px;
+  overflow: hidden;
+  background-color: #E0FFFF;
+  opacity: 0.8;
+}
+
+
+h3 {
+	color: white;
+	float: left;
+	text-align: center;
+margin: 12px 20px;
+}
+h2{
+	color: black;
+	float: left;
+	text-align: center;
+margin: 12px 20px;
+}
+
+.div {
+	margin: 12px 20px;
+	overflow: hidden;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  opacity: 0.8;
+ }
+ .btn {
+  float:right;
+  width: 11%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 15px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}

@@ -1,0 +1,13 @@
+
+body{
+font-family:sans-serif;
+background:url(about.png) no-repeat;
+background-size:cover
+}
+
+div {
+	margin: 12px 20px;
+  overflow: hidden;
+  background-color: #E0FFFF;
+  opacity: 0.8;
+}

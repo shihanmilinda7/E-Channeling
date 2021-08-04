@@ -1,0 +1,56 @@
+
+body{
+margin:0;
+padding:0;
+font-family:sans-serif;
+background:url(TopBg.png) no-repeat;
+background-size:10% 400%;
+background-position:5% -30%;
+}
+
+.login-box{
+width:280p;
+position:relative;
+top:500%;
+left:115%;
+transform:translate(-50%,250%);
+color:black;
+}
+
+.btn{
+position:relative;
+width:100%;
+background:none;
+border:2px;
+padding:0;
+font-size:11px;
+cursor:pointer;
+margin:12px 0;
+}
+
+.btn-link a:hover, a:active, a:focus {
+color: #6600ff;
+outline: none;
+text-decoration: none;
+}
+
+.btn-link a{
+color: #0000A0;
+outline: none;
+text-decoration: none;
+}
+
+.btn-cta a{
+padding: 0;
+color: green;
+}
+
+.btn-cta span{
+background: #cc00ff;
+padding: 7px 25px;   
+border-radius: 30px;
+}
+
+.btn-cta:hover span { 
+box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
+}

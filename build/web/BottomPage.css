@@ -1,0 +1,29 @@
+
+body{
+font-family:sans-serif;
+background:url(BottomBg.jpg) no-repeat;
+background-size:cover
+}
+
+.btn-link a{
+color: #4CAF50;
+text-decoration: none;
+}
+
+.btn-cta a{
+color: green;
+}
+
+.btn-cta span{
+background:#4CAF50;
+padding: 1% 7.5%; 
+border-radius: 30px;
+}
+
+.btn-cta:hover span {
+box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
+}
+
+.bo{
+transform:translate(0%,150%);
+}
