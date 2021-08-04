@@ -1,0 +1,12 @@
+INSERT INTO DOCTOR_VALIDATION VALUES
+	('D1001','Harsha'),
+	('D1002','Madhuranga'),
+	('D1003','Suresh'),
+	('D1004','Janaka'),
+	('D1005','Chamath'),
+	('D1006','Chamara'),
+	('D1007','Gihan'),
+	('D1008','Nimesh'),
+	('D1009','Chamari'),
+	('D1010','Harshani')
+;
